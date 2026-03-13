@@ -4,7 +4,7 @@
 
 source anykernel/build_helper.sh
 
-[[ $1 == 'g'   ]] && export model=merlin
+[[ $1 == 'g'   ]] && export model=lancelot
 
 BUILD_START=$(date +"%s")
 
